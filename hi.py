@@ -1,3 +1,3 @@
 #hiiiiiii
-print("no")
+print("yes")
 print("hi")
